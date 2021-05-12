@@ -18,7 +18,7 @@ font_awesome_flutter: ^9.0.0
 
 <h2>Main Screen🏠</h2>
 
-<img width="350" src="BmiCalculator-main/BmiCalculator-main/Screenshot_1619896967.png">
+<img width="350" src="https://raw.githubusercontent.com/sanchitpasricha/flutterLearning/main/BmiCalculator-main/BmiCalculator-main/Screenshot_1619896967.png">
 
 <h2>Result Screen </h2>
 <img width="350" src="https://raw.githubusercontent.com/sanchitpasricha/BmiCalculator/main/Screenshot_1619896972.png">
