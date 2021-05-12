@@ -17,6 +17,6 @@ https://pub.dev/packages/rflutter_alert
 
 After completing your questions the quiz will be getting reset automatically after displaying your total score :)
 
-<img width="300" src="https://raw.githubusercontent.com/sanchitpasricha/QuizFlutterApp/main/final.gif">
+<img width="300" src="https://raw.githubusercontent.com/sanchitpasricha/flutterLearning/main/QuizFlutterApp-main/final.gif">
 
 ## Thank You! <img width="20" src="https://media0.giphy.com/media/UWJ4OjVzIPc90ecii8/giphy.gif?cid=ecf05e47botciap0esj8ga2dg8wn518wxzpk6qoednk9l8yl&rid=giphy.gif&ct=s">
