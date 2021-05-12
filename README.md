@@ -28,7 +28,7 @@
             <td><img width="100" src="https://raw.githubusercontent.com/sanchitpasricha/FlutterLearning/main/project_images/Screenshot_1620827492.png"></td>
         </tr>    
         <tr>
-            <td>4.</td>
+            <td>5.</td>
                 <td><a href="https://github.com/sanchitpasricha/FlutterLearning/tree/main/StoryPathChoices-main">Story app</a></td>
             <td><img width="100" src="https://raw.githubusercontent.com/sanchitpasricha/FlutterLearning/main/project_images/Screenshot_1620827864.png"></td>
         </tr>     
