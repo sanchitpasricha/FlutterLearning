@@ -17,6 +17,6 @@ https://pub.dev/packages/audioplayers
 
 ** On click it will play sound. As Github doesn't provide this feature of sound so i am helpless to make you hear what it sounds like :)
 
-<img width="300" src="https://raw.githubusercontent.com/sanchitpasricha/xylophoneAppFlutter/main/xylo.gif">
+<img width="300" src="https://raw.githubusercontent.com/sanchitpasricha/flutterLearning/main/MusicInstrumentAppFlutter-main/xylo.gif">
 
 ## Thank You! <img width="20" src="https://media0.giphy.com/media/UWJ4OjVzIPc90ecii8/giphy.gif?cid=ecf05e47botciap0esj8ga2dg8wn518wxzpk6qoednk9l8yl&rid=giphy.gif&ct=s">
