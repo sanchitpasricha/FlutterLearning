@@ -10,17 +10,12 @@ This app tells your current place's weather, temperature, wind speed, pressure a
 - Dart <img width="13" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png">
 
 ### Packages Used :
-https://pub.dev/packages/geolocator
-https://pub.dev/packages/http
-https://pub.dev/packages/flutter_spinkit
-
-geolocator: ^7.0.3
-http: ^0.13.3
-flutter_spinkit: ^5.0.0
+geolocator: ^7.0.3 - https://pub.dev/packages/geolocator
+http: ^0.13.3 - https://pub.dev/packages/http
+flutter_spinkit: ^5.0.0 - https://pub.dev/packages/flutter_spinkit
 
 ### API used :
 OpenWeather API
-
 https://openweathermap.org/api
 
 ### What it looks like :
