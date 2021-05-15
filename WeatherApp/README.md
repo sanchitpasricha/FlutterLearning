@@ -30,11 +30,11 @@ https://openweathermap.org/api
 ### What it looks like :
 <img width="100" src="https://media2.giphy.com/media/W3MyhCrgfBlXDV349M/giphy.gif?cid=ecf05e47w1tomm79e4dr6d92is4ydmjowcip7bwa0nnurnwj&rid=giphy.gif&ct=s">
 
-<h2>Main Screen🏠</h2>
+<h4>Main Screen🏠</h4>
 
 <img width="350" src="https://raw.githubusercontent.com/sanchitpasricha/FlutterLearning/main/WeatherApp/Screen1.png">
 
-<h2>Result Screen </h2>
+<h4>Search Screen(input city name)</h4>
 <img width="350" src="https://raw.githubusercontent.com/sanchitpasricha/FlutterLearning/main/WeatherApp/Screen2.png">
 
 
