@@ -13,12 +13,14 @@ This app tells your current place's weather, temperature, wind speed, pressure a
 https://pub.dev/packages/geolocator
 https://pub.dev/packages/http
 https://pub.dev/packages/flutter_spinkit
+
 geolocator: ^7.0.3
 http: ^0.13.3
 flutter_spinkit: ^5.0.0
 
 ### API used :
 OpenWeather API
+
 https://openweathermap.org/api
 
 ### What it looks like :
