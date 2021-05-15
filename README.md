@@ -10,7 +10,7 @@
          <tr>
             <td>1.</td>
                 <td><a href="https://github.com/sanchitpasricha/FlutterLearning/tree/main/WeatherApp">Weather App</a></td>
-            <td><img width="1230" src="https://raw.githubusercontent.com/sanchitpasricha/FlutterLearning/main/project_images/Screen1.png"></td>
+            <td><img width="130" src="https://raw.githubusercontent.com/sanchitpasricha/FlutterLearning/main/project_images/Screen1.png"></td>
         </tr>   
         <tr>
             <td>2.</td>
