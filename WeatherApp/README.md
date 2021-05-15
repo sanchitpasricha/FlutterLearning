@@ -25,8 +25,6 @@ https://pub.dev/packages/flutter_spinkit
 ### API used :
 OpenWeather API
 
-https://openweathermap.org/api
-
 ### What it looks like :
 <img width="100" src="https://media2.giphy.com/media/W3MyhCrgfBlXDV349M/giphy.gif?cid=ecf05e47w1tomm79e4dr6d92is4ydmjowcip7bwa0nnurnwj&rid=giphy.gif&ct=s">
 
